@@ -7,9 +7,9 @@
 
 
 # Define the base string and the range
-base_string = "RWMX022402000"  # Base string to be used in the sequence
-start = 1  # Starting number for the sequence
-end = 50  # Ending number for the sequence
+base_string = "RSKMM07240100"  # Base string to be used in the sequence
+start = 161  # Starting number for the sequence
+end = 30  # Ending number for the sequence
 threshold = 1  # Threshold to switch from '+' to '-'
 
 # Loop through the range and format the strings
