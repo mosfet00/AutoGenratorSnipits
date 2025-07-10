@@ -4,7 +4,9 @@
 #em96                            EM9601240100
 #smartkinit CE                   SKMM07240100
 #Rewellx MAX v2                  RWMX02240200
-#Rewellx MAX v2.0 (Black)        RWMX02250200
+#Rewellx MAX v2.0 (Black)        RWMX02250200  RWMX-51 - GSMtested-01
+#Rewellx VFD v3.1                RWVD03250200
+
 
 
 # Define the base string and the range
